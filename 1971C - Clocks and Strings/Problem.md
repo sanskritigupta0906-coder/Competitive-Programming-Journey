@@ -2,7 +2,7 @@
 
 Platform: Codeforces
 
-Rating: 800
+Rating: 900
 
 Problem Link:
 https://codeforces.com/problemset/problem/1971/C
@@ -14,4 +14,3 @@ Given two strings joining pairs of points on a clock, determine whether they int
 ## Tags
 
 - Implementation
-- Geometry

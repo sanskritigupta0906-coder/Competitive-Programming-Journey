@@ -1,13 +1,1 @@
-# 1971C - Clock and Strings
 
-**Platform:** Codeforces
-
-**Difficulty:** 800
-
-## Problem Link
-
-https://codeforces.com/problemset/problem/1971/C
-
-## Summary
-
-Given two strings joining pairs of points on a clock, determine whether the two strings intersect.

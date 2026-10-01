@@ -1,14 +1,11 @@
-1652. Defuse the Bomb
+# Defuse the Bomb
 
-You have a bomb to defuse, and your time is running out! Your informer will provide you with a circular array code of length of n and a key k.
+Given a **circular array** `code` and an integer `k`, decrypt the code by replacing each element with the sum of the next `k` elements if `k > 0`, the previous `-k` elements if `k < 0`, or `0` if `k = 0`.
 
-To decrypt the code, you must replace every number. All the numbers are replaced simultaneously.
+The main challenge is handling the **circular nature of the array** efficiently.
 
-If k > 0, replace the ith number with the sum of the next k numbers.
-If k < 0, replace the ith number with the sum of the previous -k numbers.
-If k == 0, replace the ith number with 0.
-As code is circular, the next element of code[n-1] is code[0], and the previous element of code[0] is code[n-1].
+**Platform:** LeetCode
+**Difficulty:** Easy
+**Topics:** `Array` · `Sliding Window`
 
-Given the circular array code and an integer key k, return the decrypted code to defuse the bomb!
-
-Topics : Array, Sliding Window
+ **Problem:** [LeetCode 1652 — Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb)

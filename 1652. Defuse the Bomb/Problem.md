@@ -5,7 +5,9 @@ Given a **circular array** `code` and an integer `k`, decrypt the code by replac
 The main challenge is handling the **circular nature of the array** efficiently.
 
 **Platform:** LeetCode
+
 **Difficulty:** Easy
+
 **Topics:** `Array` · `Sliding Window`
 
  **Problem:** [LeetCode 1652 — Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb)

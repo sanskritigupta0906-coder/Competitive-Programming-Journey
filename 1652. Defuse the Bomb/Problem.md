@@ -2,9 +2,9 @@
 
 Given a **circular array** `code` and an integer `k`,
 
-decrypt the code by replacing each element with the sum of the next `k` elements :
+decrypt the code by replacing each element with the sum of :
 
-if `k > 0`, 
+the next `k` elements if `k > 0`, 
 
 the previous `-k` elements if `k < 0`, or
 
